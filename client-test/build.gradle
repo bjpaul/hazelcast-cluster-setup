@@ -17,5 +17,6 @@ repositories {
 
 
 dependencies {
+	// both server and client version should be same
 	compile('com.hazelcast:hazelcast-client:3.6.3')
 }
