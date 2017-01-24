@@ -1,0 +1,21 @@
+
+apply plugin: 'java'
+apply plugin: 'eclipse'
+apply plugin:'application'
+mainClassName = "com.hazelcast.client.Application"
+
+jar {
+	baseName = 'hazelcast-client'
+	version = '0.0.1-SNAPSHOT'
+}
+
+sourceCompatibility = 1.7
+
+repositories {
+	mavenCentral()
+}
+
+
+dependencies {
+	compile('com.hazelcast:hazelcast-client:3.6.3')
+}
