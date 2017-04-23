@@ -4,6 +4,8 @@ client-test/.gradle/*
 client-test/.project
 client-test/.settings/*
 client-test/build/*
+client-test/bin/*
+*.log
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
