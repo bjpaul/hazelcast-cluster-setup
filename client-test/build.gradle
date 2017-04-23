@@ -1,8 +1,9 @@
 
 apply plugin: 'java'
+apply plugin: 'idea'
 apply plugin: 'eclipse'
 apply plugin:'application'
-mainClassName = "com.hazelcast.client.Application"
+mainClassName = "com.hazelcast.Application"
 
 jar {
 	baseName = 'hazelcast-client'

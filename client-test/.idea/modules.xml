@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hazelcast-client-test.iml" filepath="$PROJECT_DIR$/.idea/modules/hazelcast-client-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hazelcast-client-test_main.iml" filepath="$PROJECT_DIR$/.idea/modules/hazelcast-client-test_main.iml" group="hazelcast-client-test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hazelcast-client-test_test.iml" filepath="$PROJECT_DIR$/.idea/modules/hazelcast-client-test_test.iml" group="hazelcast-client-test" />
+    </modules>
+  </component>
+</project>

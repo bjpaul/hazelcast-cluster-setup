@@ -5,6 +5,8 @@ client-test/.project
 client-test/.settings/*
 client-test/build/*
 client-test/bin/*
+client-test/.idea/*
+
 *.log
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
@@ -13,7 +15,9 @@ client-test/bin/*
 *.jar
 *.war
 *.ear
-
+*.iml
+*.ipr
+*.iws
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 /bin/
