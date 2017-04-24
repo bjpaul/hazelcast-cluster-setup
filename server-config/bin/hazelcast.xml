@@ -6,6 +6,7 @@
         <name>sandbox</name>
         <password>test</password>
     </group>
+<management-center enabled="true">http://localhost:8080/mancenter</management-center>
     <properties>
         <property name="hazelcast.tcp.join.port.try.count">5</property>
     </properties>

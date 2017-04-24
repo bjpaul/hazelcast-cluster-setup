@@ -5,15 +5,14 @@ client-test/.project
 client-test/.settings/*
 client-test/build/*
 client-test/bin/*
-client-test/.idea/*
-
-*.log
+client-test/.idea/
+**.log
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
-
+mancenter/work/*
 # Package Files #
-*.jar
-*.war
+clinet-test/*.jar
+client-test/*.war
 *.ear
 *.iml
 *.ipr
